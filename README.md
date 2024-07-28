@@ -1,63 +1,37 @@
 <div align="center">
-<h1> Digitaly - Digital Marketing Agency Landing Page Website.
-</h1>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3d529733-8f24-4a95-a83e-0331d4d88b68/deploy-status)](https://app.netlify.com/sites/digitaly/deploys)
-
+<h1>Digital Marketing Agency Landing Page</h1>
 </div>
 
-## Snapshots 📸
+**Digitaly** is a landing page for a digital marketing agency designed to help businesses expand their online reach. Built with modern technologies such as React, Tailwind CSS, Framer Motion, and Vite, this website showcases a range of services offered by the agency, including digital marketing strategy, search engine optimization (SEO), social media advertising, and content management.
 
+With a modern and intuitive design, along with engaging animations, Digitaly aims to attract potential clients by demonstrating how strategic and creative approaches can enhance visibility and business growth in the digital era.
+
+---
+### Snapshots
 ![Snapshot of Digitaly](public/assets/Digitaly%20Snapshot.png)
 
-## Tech Stack ✨
+### Tech Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-- [React.js](https://reactjs.org/) - UI Library
-- [Tailwind CSS](https://tailwindcss.com/) - Styling and UI
-- [Framer Motion](https://www.framer.com/motion/) - Animations
-- [Vite](https://vitejs.dev/) - Build tool
-- [Netlify](https://www.netlify.com/) - Hosting and Deployment
+---
+### Deployed on
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## How to run locally 💻
+---
+### Connect with me
+You can reach me through My Gmail, LinkedIn, or Instagram account
 
-Follow these steps to run Digitaly in your local machine.
+ <a
+ href="mailto:yogaardikaaa123@gmail.com?subject=Hi%20Yoga,%20I'd%20like%20to%20hire%20you">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo" />
+</a>
+<a href="https://www.linkedin.com/in/agooy/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo" />
+</a>
+<a href="https://instagram.com/yogardkaa">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo" />
+</a>
 
-### Clone this repository
-
-```bash
-git clone https://github.com/israelmitolu/Digitaly.git
-```
-
-### Navigate to directory
-
-```bash
-cd Digitaly
-```
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Run
-
-Run the development server to view the app.
-
-```bash
-npm run dev
-```
-
-Now, you can navigate to http://localhost:3000/ to view the app.
-
-### Build
-
-```bash
-npm run build
-```
-
-## Credits ✍
-
-Implementation by @israelmitolu and [@pappyjay23](https://github.com/Pappyjay23)
-
-Design inspiration: [One Week Wonders](https://dribbble.com/shots/18963472-Digitaly-Digital-Marketing-Agency-Landing-Page-Website)
+---
